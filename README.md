@@ -44,12 +44,12 @@ air-drawing-board/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 **1. Clone the repository**
 ```bash
 git clone https://github.com/malakhishams/Air-Drawing-Board
-cd air-drawing-board
+cd Air-Drawing-Board
 ```
 
 **2. Install dependencies**
